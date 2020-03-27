@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by Urara Kono
+# Written by Urara.K
 
 exec 2> /tmp/setup.log
 
